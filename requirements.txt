@@ -1,0 +1,10 @@
+streamlit==1.40.0
+moviepy==1.0.3
+google-generativeai==0.4.0
+opencv-python==4.8.1.78
+pydub==0.25.1
+openai-whisper
+mediapipe
+yt-dlp
+numpy
+librosa
